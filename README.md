@@ -1,0 +1,1 @@
+This is a code implementation for a novel prediction algorithm using the montecarlo simulation. In this approch, the monte carlo simulation has been improvised by introducing a new parameter called the units of backtracking.
